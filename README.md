@@ -1,2 +1,3 @@
-Testing with Jest
-Eslint and types
+# Jest
+# Flow
+# React Perf add-ons
