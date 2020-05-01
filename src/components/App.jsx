@@ -8,8 +8,7 @@ export default class App extends Component {
   state = {
     courses: Array
   }
-
-  constructor(props: any) {
+  constructor(props) {
     super(props);
     this.state = { courses };
   }
@@ -26,8 +25,4 @@ export default class App extends Component {
         </div>
         <div>
             <Grid items={this.state.courses}/>
-        </div>
-      </div>
-    );
-  }
-}
+      
