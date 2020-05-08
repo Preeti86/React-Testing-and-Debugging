@@ -1,4 +1,4 @@
-# Jest
-# Flow
-# React Perf add-ons
-# Enzyme
+Jest
+Flow
+React Perf add-ons
+Enzyme
